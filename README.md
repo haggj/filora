@@ -6,6 +6,12 @@
 - Filora Services: https://service.filora.eu
      - e.g. [Events Plugin](https://service.filora.eu/plugin/events)
 
+#### Development servers
+- Development Web App: https://dev.filora.eu
+- Development API: https://api.dev.filora.eu
+- Development Services: https://service.dev.filora.eu
+  - e.g. [Events Plugin](https://service.dev.filora.eu/plugin/events)
+
 # Filora Event Platform
 
 ![alt text](./assets/info.png)
