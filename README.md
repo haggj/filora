@@ -5,7 +5,7 @@ As an event organizer, you can easily create and publish your events.
 This repository contains:
 
 1. [Quick links](#quick-links) to Filora services
-2. [Information](#filora-event-platform) about the Filora Event Platform
+2. [Information](#general-information) about the Filora Event Platform
 3. [Technology stack](#technology-stack)  of the Filora Event Platform
 
 # Quick Links
@@ -22,7 +22,7 @@ This repository contains:
 - Development Services: https://service.dev.filora.eu
   - e.g. [Events Plugin](https://service.dev.filora.eu/plugin/events)
 
-# Filora Event Platform
+# General Information
 
 ![alt text](./assets/info.png)
 
